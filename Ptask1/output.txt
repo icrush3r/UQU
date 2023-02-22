@@ -1,0 +1,31 @@
+
+ The name is: Ahmed
+ The id is: 1121
+ The university id is: 3001
+The maozonah is:  82.1
+ The major is: Computer Science
+----------------------------------------------------------------------------------------------
+ The name is: Tameem
+ The id is: 1122
+ The university id is: 3002
+The maozonah is:  88.0
+ The major is: Computer Science
+----------------------------------------------------------------------------------------------
+ The name is: Hamed
+ The id is: 1125
+ The university id is: 3005
+The maozonah is:  94.9
+ The major is: Computer Science
+----------------------------------------------------------------------------------------------
+ The name is: Abdullah
+ The id is: 1124
+ The university id is: 3004
+The maozonah is:  75.30000000000001
+ The major is: Excluded
+----------------------------------------------------------------------------------------------
+ The name is: Mohamed
+ The id is: 1123
+ The university id is: 3003
+The maozonah is:  80.5
+ The major is: Excluded
+----------------------------------------------------------------------------------------------
